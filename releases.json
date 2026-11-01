@@ -1,4 +1,11 @@
 {
   "format": 1,
-  "releases": []
+  "releases": [
+    {
+      "version": "0.3.1",
+      "commit": "b959a55bcf4b5711c820bfd3f2adc3deb50417e7",
+      "timestamp": 1793531709,
+      "dsh": ">=0.2.1-rc.5 <0.3.0"
+    }
+  ]
 }

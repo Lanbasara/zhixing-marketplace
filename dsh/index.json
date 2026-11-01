@@ -4,5 +4,31 @@
     "en": "Zhixing",
     "zh": "知行"
   },
-  "plugins": []
+  "plugins": [
+    {
+      "name": "zhixing",
+      "title": {
+        "en": "Zhixing",
+        "zh": "知行"
+      },
+      "description": "知行：可组合的工程技能与共享判断原则。",
+      "author": "Lanbasara",
+      "homepage": "https://github.com/Lanbasara/zhixing",
+      "versions": [
+        {
+          "version": "0.3.1",
+          "publishTimestamp": 1793531709,
+          "engines": {
+            "dsh": ">=0.2.1-rc.5 <0.3.0"
+          },
+          "source": {
+            "type": "git",
+            "url": "https://github.com/Lanbasara/zhixing.git",
+            "commit": "b959a55bcf4b5711c820bfd3f2adc3deb50417e7",
+            "path": "plugin"
+          }
+        }
+      ]
+    }
+  ]
 }

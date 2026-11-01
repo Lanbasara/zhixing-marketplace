@@ -3,5 +3,22 @@
   "interface": {
     "displayName": "知行 Zhixing"
   },
-  "plugins": []
+  "plugins": [
+    {
+      "name": "zhixing",
+      "description": "知行：可组合的工程技能与共享判断原则。",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/Lanbasara/zhixing.git",
+        "path": "./plugin",
+        "sha": "b959a55bcf4b5711c820bfd3f2adc3deb50417e7",
+        "ref": "v0.3.1"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_USE"
+      },
+      "category": "Productivity"
+    }
+  ]
 }
