@@ -11,8 +11,8 @@
         "source": "git-subdir",
         "url": "https://github.com/Lanbasara/zhixing.git",
         "path": "./plugin",
-        "sha": "b959a55bcf4b5711c820bfd3f2adc3deb50417e7",
-        "ref": "v0.3.1"
+        "sha": "31f6b46c4eeca55d9db7984cd7469711af6f227e",
+        "ref": "v0.3.3"
       },
       "policy": {
         "installation": "AVAILABLE",
