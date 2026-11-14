@@ -16,6 +16,19 @@
       "homepage": "https://github.com/Lanbasara/zhixing",
       "versions": [
         {
+          "version": "0.3.6",
+          "publishTimestamp": 1794664837,
+          "engines": {
+            "dsh": ">=0.2.1-rc.4 <0.3.0"
+          },
+          "source": {
+            "type": "git",
+            "url": "https://github.com/Lanbasara/zhixing.git",
+            "commit": "5e7f353943cc125ccd57665b1800a6d2c4f84f1f",
+            "path": "plugin"
+          }
+        },
+        {
           "version": "0.3.5",
           "publishTimestamp": 1793770363,
           "engines": {

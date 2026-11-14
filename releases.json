@@ -2,6 +2,12 @@
   "format": 1,
   "releases": [
     {
+      "version": "0.3.6",
+      "commit": "5e7f353943cc125ccd57665b1800a6d2c4f84f1f",
+      "timestamp": 1794664837,
+      "dsh": ">=0.2.1-rc.4 <0.3.0"
+    },
+    {
       "version": "0.3.5",
       "commit": "fb37accc54e3033958bc4342c0743a0340ad8481",
       "timestamp": 1793770363,
